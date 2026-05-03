@@ -95,7 +95,8 @@ plt.show()
 ## Output:
 <img width="782" height="571" alt="Screenshot 2026-05-03 201303" src="https://github.com/user-attachments/assets/3e3419fc-4185-4250-96ee-9bb0dddcfd48" />
 <img width="820" height="561" alt="Screenshot 2026-05-03 201315" src="https://github.com/user-attachments/assets/4a7e1903-e81a-4c06-a6c0-95fd4668a375" />
-<img width="782" height="571" alt="Screenshot 2026-05-03 201303" src="https://github.com/user-attachments/assets/e1d28221-5a3e-43c1-9d71-0fb86834336e" />
+<img width="846" height="602" alt="Screenshot 2026-05-03 201344" src="https://github.com/user-attachments/assets/53611cae-e7b7-456a-b258-0794a8918f53" />
+
 
 
 
